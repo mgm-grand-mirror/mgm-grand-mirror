@@ -55,4 +55,6 @@ This guide is provided for informational and educational purposes only. The cont
 
 
 
-Update:  17.06.2025 Corrected broken profiling tool references
+
+
+Update:  06/21/2025 Icon references
