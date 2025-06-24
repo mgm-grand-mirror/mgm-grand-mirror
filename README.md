@@ -59,4 +59,6 @@ This guide is provided for informational and educational purposes only. The cont
 
 
 
-Update:  23 June 2025 Exciting news! The link is back online.
+
+
+Update: Icon references
